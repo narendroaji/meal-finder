@@ -1,5 +1,5 @@
 {
-  "name": "foodfinder",
+  "name": "mealfinder",
   "version": "1.0.0",
   "description": "A platform that is used to find information about food across the world",
   "main": "index.js",
